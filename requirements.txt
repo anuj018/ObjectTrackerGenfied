@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+azure-storage-blob
+aiohttp
+sqlalchemy
+aiofiles
+python-dotenv
