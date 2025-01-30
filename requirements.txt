@@ -1,3 +1,7 @@
+--index-url https://download.pytorch.org/whl/cu126
+torch
+torchvision
+torchaudio
 fastapi
 uvicorn
 azure-storage-blob
@@ -5,3 +9,8 @@ aiohttp
 sqlalchemy
 aiofiles
 python-dotenv
+opencv-python-headless 
+numpy==1.26.4
+tqdm 
+ultralytics
+ffmpeg-python
